@@ -7,13 +7,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Nick Cardin</title>
-  <meta name="description" content="Nick Cardin's Personal Site">
+  <!-- <meta name="description" content=""> -->
   <meta name="keywords" content="nickcardin, nacardin, cardin">
 
   <meta property="og:title" content="Nick Cardin" />
-  <meta property="og:description" content="Nick Cardin's Personal Site">
-  <!--<meta property="og:image" content="/images/logo.png">-->
-  <meta property="og:url" content="https://nickcardin.com">
+  <!-- <meta property="og:description" content=""> -->
+  <!-- <meta property="og:image" content=""> -->
+  <meta property="og:url" content="{{ current_url | safe }}">
   <meta property="og:type" content="website">
 
   <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
@@ -35,7 +35,8 @@
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300" type="text/css">
   <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons" type="text/css">
 
-  <link rel="stylesheet" href="/main.css">
+  <link rel="stylesheet" href="/normalize.css">
+  <link rel="stylesheet" href="/style.css">
 
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -52,16 +53,16 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
-  <script src="/assets/vendor/jquery.min.js"></script>
-  <script src="/assets/vendor/materialize.min.js"></script>
-
-  {% include "common/topbar.html" %}
+  <!-- <script src="/assets/vendor/jquery.min.js"></script> -->
+  <!-- <script src="/assets/vendor/materialize.min.js"></script> -->
 
   <div class="content-body">
     {% block body %}{% endblock %}
   </div>
 
-  {% include "common/footer.html" %}
+  <footer>
+    <p class="container">Copyright © {{ now() | date(format="%Y") }} Nick Cardin. All rights reserved.</p>
+  </footer>
 
 </body>
 

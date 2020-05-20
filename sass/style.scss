@@ -1,20 +1,26 @@
+@import "./typography";
+
+a {
+    text-decoration: none;
+}
+
 .index {
     text-align: center;
-    >h1 {
+    > h1 {
         margin-top: 0;
         font-size: 3rem;
     }
-    >dl {
+    > dl {
         margin: 3.5rem 0;
-        >dt {
+        > dt {
             margin-top: 1rem;
             font-size: 1.2rem;
-            color: map-get($grey, darken-1);
+            color: rgba(0, 0, 0, 0.5);
         }
-        >dd {
+        > dd {
             font-size: 1.4rem;
             margin: 0;
-            >a {
+            > a {
                 color: inherit;
             }
         }
@@ -30,8 +36,7 @@
         margin: 50px 0;
     }
     &__card {
-        margin: 1rem; // border: 1px solid map-get($grey, darken-1);
-        // border-width: 1px 2px 3px 4px;
+        margin: 1rem;
         min-width: 92px;
         &__image {
             height: 48px;
@@ -40,4 +45,10 @@
             font-size: 2rem;
         }
     }
+}
+
+footer {
+    padding: 25px 0;
+    border-top: 1px solid #ddd;
+    text-align: center;
 }
