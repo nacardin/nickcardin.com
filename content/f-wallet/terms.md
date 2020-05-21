@@ -1,0 +1,32 @@
++++
+title = "F-Wallet Terms & Conditions"
++++
+
+# F-Wallet
+
+## Terms & Conditions
+
+
+Nick Cardin built the F-Wallet app as an Open Source app. This APP is provided by Nick Cardin at no cost and is intended for use as is.
+
+By downloading or using the App, these terms will automatically apply to you.
+
+Nick Cardin is committed to ensuring that the App is as useful and efficient as possible. For that reason, I reserve the right to make changes to the App.
+
+The App stores and processes personal data that you have provided to it. It's your responsibility to keep your phone and access to the App secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone's security features and it could mean that your stored funds/assets may be stolen/compromised and/or the App won't work properly or at all.
+
+You should be aware that there are certain things that Nick Cardin will not take responsibility for. Certain functions of the App will require the App to have an active internet connection.
+
+When you're using the App, it's important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Nick Cardin accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the App.
+
+At some point, we may wish to update the App. The App is currently available on various platforms – the requirements for any platform (and for any additional platforms we decide to extend the availability of the App to) may change, and you'll need to download the updates if you want to keep using the App. Nick Cardin does not promise that he will always update the App so that it is relevant to you and/or works with the version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the App, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the App, and (if needed) delete it from your device.
+
+### Changes to This Terms and Conditions
+
+I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+
+These terms and conditions are effective as of 2020-01-01
+
+### Contact Us
+
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at [support@nickcardin.com](mailto:support@nickcardin.com).
